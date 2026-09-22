@@ -1,0 +1,10 @@
+Construction Activity,Total Historical Incidents,Dominant Severity Index,Fatality Probability,High Severity Probability,Moderate Severity Probability,Low Severity Probability
+Demolition Works,425,High,0.245,0.574,0.181,0.0
+General Construction Activity,10229,High,0.201,0.594,0.205,0.0
+Heavy Machinery & Haulage,4458,High,0.143,0.545,0.312,0.0
+Structural Steel & Ironwork,1726,High,0.08,0.794,0.126,0.0
+Electrical Installation,1000,High,0.076,0.836,0.088,0.0
+Roofing & Perimeter Framing,1702,High,0.072,0.825,0.103,0.0
+Excavation & Trenching,959,High,0.068,0.821,0.112,0.0
+Scaffolding & Work at Height,3858,High,0.063,0.871,0.066,0.0
+Slab Casting & Concrete Pouring,2741,High,0.052,0.915,0.033,0.0
